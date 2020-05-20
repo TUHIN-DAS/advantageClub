@@ -1,0 +1,23 @@
+[
+    {
+        "name" :"Barbeque Nation", 
+        "region" : ["Pan India"],
+        "description" : "Buy One Get One Free"
+    },
+    {
+        "name" :"Fasoos", 
+        "region" : ["Delhi","Noida","Gurgaon"],
+        "description" : "Get 50% off upto Rs.100"
+    },
+    {
+        "name" :"Firangi Bake", 
+        "region" : ["Pune","Mumbai"],
+        "description" : "Get 20% off upto Rs.200"
+    },
+    {
+        "name" :"Good Bowl", 
+        "region" : ["Pune","Mumbai","delhi"],
+        "description" : "Buy Two get One Free"
+    }
+    
+]

@@ -1,0 +1,11 @@
+.right {
+  float:right;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.padding-top-15 {
+  padding-top: 15px;
+}
